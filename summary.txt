@@ -1,0 +1,35 @@
+EXECUTIVE SUMMARY OF FINDINGS
+
+Across 51,290 global transactions, the business generated $12.64M in revenue and $1.47M in net profit, yielding an overall profit margin of 11.61%. While core product categories and customer segments show sustained top-line growth, overall net income is heavily eroded by undisciplined discounting and specific regional loss leaders.
+
+Key Findings:
+
+1. The 20% Discount Cliff
+Discounts capped at 20% or lower maintain healthy profitability, returning profit margins between 10% and 25%. However, discounting beyond 20% reliably destroys shareholder value:
+
+* Transactions discounted between 30% and 50% experience an 87.3% loss rate.
+* Transactions discounted above 50% have a 100% loss rate, failing to yield a single profitable order.
+* Cumulatively, orders discounted over 20% created $814,685 in net losses.
+
+2. Product Line Margin Drain (Tables)
+While 16 of the 17 product sub-categories are profitable (led by Copiers at $258,568 and Phones at $216,717 in profit), the Tables sub-category generated a cumulative loss of $64,084 on $757,042 in revenue, caused primarily by an aggressive 29.1% average discount rate.
+3. Geographic Loss Centers
+Profits are concentrated in disciplined markets such as the United States ($286,398 profit), China ($150,683 profit), and India ($129,051 profit), where average discounts stay below 2% in Asian markets. Conversely, three countries accounted for over $220,000 in collective losses due to unmanaged price reductions:
+
+* Turkey: -$98,447 profit (60.0% average discount)
+* Nigeria: -$80,751 profit (70.0% average discount)
+* Netherlands: -$41,070 profit (48.2% average discount)
+
+4. Shipping and Logistics Dynamics
+Shipping cost and transit time account for over 70% of the variance when predicting order sales. Standard Class handles 60% of all volume with an average fulfillment time of 5.0 days ($20.09 average shipping cost), whereas Same Day delivery averages 0.04 shipping days at an average cost of $43.00.
+
+STRATEGIC RECOMMENDATIONS
+
+1. Implement Strict Discount Governance
+Establish a mandatory hard cap on standard sales discounts at 20% across all channels. Any deal requiring discounts above 20% must mandate regional director or executive sign-off to halt the $814K margin drain.
+2. Restructure the Tables Sub-Category
+Immediately freeze promotional discounting on Tables. Renegotiate bulk supplier pricing and re-evaluate shipping/freight costs for bulky furniture. Eliminate negative-margin table SKUs in regions where logistics expenses exceed retail gross margins.
+3. Overhaul Bleeding Geographic Markets
+End automated discounting policies in Turkey, Nigeria, and the Netherlands. Shift these territories to dynamic pricing models or enforce minimum order volume thresholds to cover local logistical overhead.
+4. Allocate Capital to High-Margin Categories
+Reallocate promotional budgets, marketing spend, and inventory holding toward high-performing lines such as Copiers, Phones, and Accessories, while scaling enterprise B2B sales in strong-margin markets (Asia-Pacific and USCA).
